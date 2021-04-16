@@ -18,3 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+visit https://practical-goldwasser-fcf0e3.netlify.app/ to try it out.
